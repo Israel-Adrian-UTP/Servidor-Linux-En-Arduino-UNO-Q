@@ -1,6 +1,6 @@
 # Diseño e Implementación de un Servidor Linux para Cocina Repuestos SAC
 
-Proyecto académico del curso de **Sistemas Operativos** (Carrera de Ingeniería de Sistemas — Universidad Tecnológica del Perú, Sede Sur)[cite: 1]. El proyecto aborda la centralización de archivos, control de accesos por áreas (**Ventas** y **Almacén**), gestión de recursos y disponibilidad de información para la pyme **Cocina Repuestos SAC** en Lima, Perú[cite: 1, 2, 3].
+Proyecto académico del curso de **Sistemas Operativos** (Carrera de Ingeniería de Sistemas — Universidad Tecnológica del Perú, Sede Sur). El proyecto aborda la centralización de archivos, control de accesos por áreas (**Ventas** y **Almacén**), gestión de recursos y disponibilidad de información para la pyme **Cocina Repuestos SAC** en Lima, Perú.
 
 ## Integrantes y Datos del Curso
 
