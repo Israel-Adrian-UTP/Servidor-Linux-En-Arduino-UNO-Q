@@ -39,10 +39,10 @@ Proyecto académico del curso de **Sistemas Operativos** (Carrera de Ingeniería
 
 ```text
 ├── README.md
-├── .gitignore
 ├── docs/
-│   ├── Avance1SistemasOperativos.docx
-│   ├── Avance 2.docx
+│   ├── Avance 1.pdf
+│   ├── Avance 2.pdf
 │   └── Proyecto Final.docx
-├── config/
 └── evidencias/
+    ├── Servidor Funcional.mp4
+    └── Implementando Seguridad.mp4
